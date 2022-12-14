@@ -5,7 +5,7 @@
 ![Language](https://badgen.net/badge/Language/TypeScript/blue)
 [![Template](https://badgen.net/badge/Template/aocrunner/blue)](https://github.com/caderek/aocrunner)
 
-# 🎄 Advent of Code 2022 🎄
+# 🎄 Advent of Code 2022 🎄Izzy
 
 ## Solutions
 
